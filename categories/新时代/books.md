@@ -12,7 +12,7 @@
 |---|---|---|---|---|---|---|---|
 | A1 | 灵界的讯息 | The Seth Material | 早期资料结集（珍记述+赛斯语录，公认入门书） | 王季庆 | ★★★ | P1 | 候选 |
 | A2 | 灵魂永生 | Seth Speaks: The Eternal Validity of the Soul | 1970–1971（511–596 节） | 王季庆（另有王育盛译《时空之外》） | ★★★ | P1 | 候选 |
-| A3 | 个人实相的本质 | The Nature of Personal Reality | 1972–1973（609–677 节） | 王季庆 | ★★★ | P1 | 候选 |
+| A3 | [个人实相的本质](books/个人实相的本质.md) | The Nature of Personal Reality | 1972–1973（609–677 节） | 王季庆 | ★★★ | P1 | 已完成 |
 | A4 | 未知的实相（卷一/卷二） | The "Unknown" Reality | 1974–1975（679–744 节） | 王季庆 | ★★★ | P2 | 候选 |
 | A5 | 心灵的本质 | The Nature of the Psyche | 1975–1977（752–800 节） | 王季庆 | ★★★ | P1 | 候选 |
 | A6 | 个人与群体事件的本质 | The Individual and the Nature of Mass Events | 1977–1979（801–873 节） | 王季庆（简体：世界图书 2015） | ★★★ | P2 | 候选 |
