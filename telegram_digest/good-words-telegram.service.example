@@ -1,0 +1,15 @@
+[Unit]
+Description=Good Words Telegram digest scheduler
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+WorkingDirectory=/path/to/good-words
+Environment=PYTHONUNBUFFERED=1
+ExecStart=/usr/bin/python3 /path/to/good-words/telegram_digest/telegram_digest.py run
+Restart=always
+RestartSec=10
+
+[Install]
+WantedBy=default.target

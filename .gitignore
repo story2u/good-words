@@ -1,2 +1,10 @@
 # Local source texts for private verification; do not publish full books.
 books/*
+
+# Local Telegram digest runtime state.
+telegram_digest/.env
+telegram_digest/data/
+
+# Python runtime cache.
+__pycache__/
+*.py[cod]
